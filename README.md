@@ -14,7 +14,7 @@ i am very very lonely, and do not have many friends. i will never be upset with 
 
 art credits: IC, Unknown_0_SB
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7B6584&width=435&lines=Another+vanishing+act+;from+Emery+Rivera!;A+magician+never;reveals+his+secrets.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7B6584&center=true&width=435&separator=%3C&lines=;+%22Another+vanishing+act%3Cfrom+Emery+Rivera!%22)](https://git.io/typing-svg)
 
 <details>
   <summary>Click 4 stamps + blinkies!</summary>
